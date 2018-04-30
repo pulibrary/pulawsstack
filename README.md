@@ -43,3 +43,13 @@ And if the changes look good, apply them to your infrastructure
     % terraform apply
 
 This will automatically setup your basic networking configuration with an auto-scaling default cluster
+
+## Requirements
+
+Before we start, you'll first need:
+
+- [ ] an [AWS account](http://aws.amazon.com/) with API access
+- [ ] locally configured [AWS credentials](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration) or a tool like [aws-vault][aws-vault]
+- [ ] to [create a
+  keypair](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html#having-ec2-create-your-key-pair) in AWS
+- [ ] download and install [terraform](https://terraform.io/)
