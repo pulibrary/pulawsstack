@@ -44,6 +44,9 @@ And if the changes look good, apply them to your infrastructure
 
 This will automatically setup your basic networking configuration with an auto-scaling default cluster
 
+With this setup, you can now run services from [Princeton
+Ansible](https://github.com/pulibrary/princeton_ansible)
+
 ## Requirements
 
 Before we start, you'll first need:
