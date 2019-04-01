@@ -1,7 +1,7 @@
 # pulawsstack
 A set of Terraform modules for configuring infrastructure with AWS
 
-The PUL AWS Stack is a set of [Terraform][terraform] modules for configuring infrastructure with AWS.
+The PUL AWS Stack is a set of [Terraform](https://terraform.io) modules for configuring infrastructure with AWS.
 It's a more 'curated' set of defaults for configuring your AWS environment, while still allowing you to fully customize it.
 
 The PUL AWS Stack comes (will come) with:
